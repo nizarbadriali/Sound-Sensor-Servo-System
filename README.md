@@ -1,6 +1,6 @@
-# Sound-Activated Servo
+# Sound-Sensor-Servo-System
 
-Servo motor triggers on a clap or loud noise detected by a sound sensor.
+A servo motor triggers on a clap or loud noise detected by the sound sensor.
 
 ## Description
 A sound sensor module monitors ambient noise levels. When a clap or loud sound exceeds the sensitivity threshold, the servo rotates 90°, holds for 3 seconds, then returns to its resting position. Demonstrates event-driven output logic, digital input reading, and servo control on an Arduino.
